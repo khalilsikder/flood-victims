@@ -21,7 +21,8 @@ body{
 }
 .section-div a{
     text-decoration: none;
-    background-color: olivedrab;
+    background-color: tomato;
+    color: white;
     padding: 10px;
     border-radius: 10px;
 }
@@ -53,3 +54,25 @@ body{
     padding: 10px;
     border-radius: 5px;
 }
+.planning{
+    margin-top: 50px;
+}
+.donate-plane{
+    text-align: center;
+}
+.basic-things{
+    width: 1400px;
+    display: flex;
+    justify-content: center;
+}
+.family h2{
+color: darkolivegreen;
+}
+.shelter h2{
+    color: cadetblue;
+}
+.education h2{
+    color:rgb(124, 13, 13)
+}
+
+
