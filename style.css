@@ -31,6 +31,7 @@ body{
 }
 .donate-money h1{
     font-size: 50px;
+    color:green;
 }
 .donate-money ul li{
     display: inline-block;
@@ -73,6 +74,65 @@ color: darkolivegreen;
 }
 .education h2{
     color:rgb(124, 13, 13)
+}
+.famine{
+    display: flex;
+}
+.famine h2{
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(16, 64, 64);
+}
+.famine p{
+    text-align: center;
+    justify-content: center;
+    
+}
+.famine-div1{
+    width: 50%;
+}
+.famine-div1 img{
+    width: 80%;
+    border: 3px dotted mediumseagreen;
+    margin-top: 30px;
+}
+.famine-div2{
+    width: 50%;
+}
+.famine-div2 a{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    margin-left: 200px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.update h1{
+    font-size: 50px;
+}
+.inside{
+    background-color: tomato;
+    padding: 10px 30px;
+}
+.input-idea{
+    margin-top: 50px;
+}
+.update{
+    text-align: center;
+    margin-top: 50px;
+}
+footer{
+background-color: black;
+}
+footer h1{
+    text-align: center;
+    padding: 15px;
+    color: tomato;
+}
+footer p{
+    text-align: center;
+    padding: 15px;
+    color: azure;
 }
 
 
